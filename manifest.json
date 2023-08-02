@@ -4,7 +4,7 @@
   "start_url": ".",
   "theme_color": "#4287f5",
   "background_color": "#ffffff",
-  "display": "standalone",
+  "display": "fullscreen",
   "icons":[
     {
       "src":"images/manifest-icon-192.maskable",
